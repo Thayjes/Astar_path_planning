@@ -1,0 +1,7 @@
+setup.py
+cmake_python_project/__init__.py
+cmake_python_project/example.py
+cmake_python_project.egg-info/PKG-INFO
+cmake_python_project.egg-info/SOURCES.txt
+cmake_python_project.egg-info/dependency_links.txt
+cmake_python_project.egg-info/top_level.txt
